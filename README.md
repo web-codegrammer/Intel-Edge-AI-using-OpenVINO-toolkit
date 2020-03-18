@@ -7,7 +7,7 @@
 Defined as edge computing as “a part of a distributed computing topology in which information processing is located close to the edge – where things and people produce or consume that information".
 
 ###  1.Consequences from Video
-This folder cantains a project which analize the [video](https://github.com/web-codegrammer/Intel-Edge-AI-using-OpenVINO-toolkit/blob/master/consequences%20from%20video/pets.mp4) and return the time two particular set of pets are in camera scene and returns the time stamp when a particular event occurs.
+This folder cantains a project which analyze the [video](https://github.com/web-codegrammer/Intel-Edge-AI-using-OpenVINO-toolkit/blob/master/consequences%20from%20video/pets.mp4) and return the time two particular set of pets are in camera scene and returns the time stamp when a particular event occurs.
 
 Files contained are:-
 1. prototype.xml:- xml reprenstaion of Deep Learning Model used as a consequence to model
