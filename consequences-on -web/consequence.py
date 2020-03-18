@@ -79,6 +79,6 @@ class Network:
 
     def extract_output(self):
         '''
-        Returns a list of the results for the output layer of the network.
+        Returns a list of the results for the output layer of the network
         '''
         return self.exec_network.requests[0].outputs[self.output_blob]
