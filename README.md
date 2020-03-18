@@ -6,7 +6,7 @@
 ### Why Edge AI Application?
 Defined as edge computing as “a part of a distributed computing topology in which information processing is located close to the edge – where things and people produce or consume that information".
 
-###  1.Consequences from Video
+###  1. Consequences from Video
 This folder cantains a project which analyze the [video](https://github.com/web-codegrammer/Intel-Edge-AI-using-OpenVINO-toolkit/blob/master/consequences%20from%20video/pets.mp4) and return the time two particular set of pets are in camera scene and returns the time stamp when a particular event occurs.
 
 Files contained are:-
@@ -16,7 +16,7 @@ Files contained are:-
 1. App.py :- Main file of python
  
 
-###  2.Integrating-on-web
+###  2. Integrating-on-web
 In this project, Data was transfered from Edge Application to the web Server using **MQTT** and **FFmpeg servers**.[Input video](https://github.com/web-codegrammer/Intel-Edge-AI-using-OpenVINO-toolkit/blob/master/consequences-on%20-web/test_video.mp4)  was converted to [output video](https://github.com/web-codegrammer/Intel-Edge-AI-using-OpenVINO-toolkit/blob/master/consequences-on%20-web/out_video.mp4) and was dispalyed along with data like **speed** and **classes counted** from JSON server.
 
 
