@@ -37,6 +37,7 @@ Files contained are:-
 
 ## License 
 [MIT](https://github.com/web-codegrammer/Intel-Edge-AI-using-OpenVINO-toolkit/blob/master/LICENSE)
+
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
 
-https://github.com/web-codegrammer/Intel-Edge-AI-using-OpenVINO-toolkit/blob/master/LICENSE
+
