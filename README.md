@@ -34,3 +34,9 @@ Files contained are:-
 1. paho.mqqt
 1. Tensorflow
 1. Numpy
+
+## License 
+[MIT](https://github.com/web-codegrammer/Intel-Edge-AI-using-OpenVINO-toolkit/blob/master/LICENSE)
+Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
+
+https://github.com/web-codegrammer/Intel-Edge-AI-using-OpenVINO-toolkit/blob/master/LICENSE
